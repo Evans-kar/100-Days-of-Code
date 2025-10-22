@@ -14,3 +14,7 @@ console.log(x+=a);
 let m = true; // declared and initialized variable m
 let n = m &&= 10; //declared and initialized variable n
 console.log(n); //testing the operand
+//||= logical add operator if the first value is false the second value is assigned
+let y = true; // declared and initialized variable m
+let z = y &&= 10; //declared and initialized variable n
+console.log(z); //testing the operand
