@@ -10,3 +10,7 @@ console.log(text1);
 console.log(x%a);
 console.log(x**a);
 console.log(x+=a);
+//&& logical add operator if the first value is true the second value is assigned
+let m = true; // declared and initialized variable m
+let n = m &&= 10; //declared and initialized variable n
+console.log(n); //testing the operand
